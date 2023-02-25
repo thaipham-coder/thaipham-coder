@@ -6,7 +6,8 @@
 ### <div align="center">I'm Hong Thai, a full-stack developer 👨‍💻 working remotely since 2020 🚀</div>  
   
 
-- 🔭 I’m currently working on [BEYOURs](https://beyours.vn/pages/gioithieubeyours)  
+- 🔭 I’m currently working Web Master on [BEYOURs](https://beyours.vn/pages/gioithieubeyours)  
+- 🔭 I’m currently working Full Stack React/ Node JS on [BECONCEPT](https://beconcept.vn)  
   
 
 <br/>  
